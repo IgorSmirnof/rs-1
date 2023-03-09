@@ -22,12 +22,12 @@ Your task is to make a function that can take any non-negative integer as an arg
 const newNumber = Number(Array.from(String(number)).sort((a, b) => b - a).join(''))
 
 ## *Education*
-- National Research University «Moscow Power Engineering Institute»
-
+- National Research University «Moscow Power Engineering Institute» specialty radiophysics
+- GPOU DPO Centre "Professional" Fullstack programing
 
 ## *Experience*
 
 ## *Languages*
 - Russian (native)
-- English (A2)
+- English (A2.1)
 - Spanish (A2)
