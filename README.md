@@ -25,6 +25,7 @@ const newNumber = Number(Array.from(String(number)).sort((a, b) => b - a).join('
 - **National Research University «Moscow Power Engineering Institute»**: specialty radiophysics
 - **GPOU DPO Centre "Professional"**: Fullstack programing
 - **Yandex Practicum**: Web Developer
+- **El Camino**: pellegrino
 
 ## *Experience*
 
